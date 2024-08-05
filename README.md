@@ -27,4 +27,4 @@ I'm a MS Student in Computer Science at George Mason University | Ex- Software E
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeherSuneel&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suneelmeesalameher&layout=compact&theme=radical)
