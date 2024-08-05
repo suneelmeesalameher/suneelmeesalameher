@@ -26,4 +26,4 @@ I'm a MS Student in Computer Science at George Mason University | Ex- Software E
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 
-![Meher's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeherSuneel&show_icons=true&theme=radical)
+![Meher's GitHub stats](https://github-readme-stats.vercel.app/api?username=suneelmeesalameher&show_icons=true&theme=radical)
