@@ -8,6 +8,8 @@ I'm a MS Student in Computer Science at George Mason University | Ex- Software E
 - 👯 I’m looking to collaborate on Machine Learning/ Artificial Intelligence Projects.
 - 📫 How to reach me: 
    - [Meher Suneel Meesala](https://www.linkedin.com/in/meher-suneel-meesala/)
+- Portfolio:
+   - [Meher Suneel Meesala](https://suneelmeesalameher.gitcv.me/)
       
 
 
