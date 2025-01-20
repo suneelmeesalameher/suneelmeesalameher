@@ -9,7 +9,7 @@ I'm a MS Student in Computer Science at George Mason University | Ex- Software E
 - 📫 How to reach me: 
    - [Meher Suneel Meesala](https://www.linkedin.com/in/meher-suneel-meesala/)
 - Portfolio:
-   - [Meher Suneel Meesala](https://suneelmeesalameher.github.io/MeherSuneel/))
+   - [Meher Suneel Meesala](https://suneelmeesalameher.github.io/MeherSuneel/)
       
 
 
