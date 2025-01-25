@@ -7,9 +7,7 @@ I'm a MS Student in Computer Science at George Mason University | Ex- Software E
 - 🛠️ Dedicated to clean, maintainable code and seamless user experiences.
 - 💡 Firm believer in the power of design to solve real-world problems.
 - 📫 How to reach me: 
-   - [Meher Suneel Meesala](https://www.linkedin.com/in/meher-suneel-meesala/)
-- Portfolio:
-   - [Meher Suneel Meesala](https://suneelmeesalameher.github.io/MeherSuneel/)
+   - [LinkedIn](https://www.linkedin.com/in/meher-suneel-meesala/) | [Portfolio](https://suneelmeesalameher.github.io/MeherSuneel/) | [Email](mmeesala@gmu.edu)
       
 
 
