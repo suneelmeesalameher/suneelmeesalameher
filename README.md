@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm MeherSuneel Meesala - aka 'Meher' 👋
+I'm MeherSuneel Meesala - aka 'Meher'
 I'm a MS Student in Computer Science at George Mason University | Ex- Software Engineer in Tata Consultancy Services | GITAM'20
 
 - 🔭 Skilled in JavaScript, React, Node.js, TypeScript, and modern web development.
