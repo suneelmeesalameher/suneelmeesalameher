@@ -31,10 +31,5 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
----
-
-### 📊 GitHub Stats
-
-![Meher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suneelmeesalameher&show_icons=true&theme=default&hide_rank=true)
 
 
