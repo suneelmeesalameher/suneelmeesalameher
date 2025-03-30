@@ -36,9 +36,6 @@
 ### 📊 GitHub Stats
 
 ![Meher's GitHub stats](https://github-readme-stats.vercel.app/api?username=suneelmeesalameher&show_icons=true&theme=radical&hide_rank=true)
+![Meher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suneelmeesalameher&show_icons=true&theme=default)
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suneelmeesalameher&show_icons=true&theme=radical&hide_rank=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneelmeesalameher&layout=compact&theme=radical" width="47%" />
-</p>
 
