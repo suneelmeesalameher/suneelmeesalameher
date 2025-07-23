@@ -13,8 +13,6 @@
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/meher-suneel-meesala/)  
-- [Portfolio](https://suneelmeesalameher.github.io/MeherSuneel/)  
 - mmeesala@gmu.edu  
 
 ---
