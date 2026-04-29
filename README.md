@@ -30,14 +30,17 @@
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
-## 🛠️ Technical Growth
 
 ## 💻 Technical Proficiency
 
-| LeetCode Progress | Key Metrics |
-![LeetCode Stats](https://leetcard.jacoblin.cool/meher_suneel?theme=dark)
+| LeetCode Stats | Professional Toolkit |
+| :--- | :--- |
+| [![LeetCode Stats](https://leetcard.jacoblin.cool/meher_suneel?theme=dark)](https://leetcode.com/u/meher_suneel/) | **Languages:** Java, Python, SQL <br> **Cloud:** AWS, Serverless, Microservices <br> **Focus:** High-Performance Systems |
 
-> [!TIP]
-> Check out my [LeetCode Profile](https://leetcode.com/u/meher_suneel/) for detailed solutions.
+---
 
-> **Note:** I focus on Medium/Hard problems involving distributed systems and high-performance algorithms.
+### 🚀 Problem Solving Journey
+> I focus on solving Medium and Hard problems that involve complex data structures and distributed system design.
+
+* 📈 **Continuous Growth:** Active on LeetCode for algorithm mastery.
+* 🛠️ **System Design:** Applying patterns like Event-Driven Architecture and Sharding.
