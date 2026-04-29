@@ -32,8 +32,13 @@
 
 ## 🛠️ Technical Growth
 
-| LeetCode Stats | Top Skills |
+## 💻 Technical Proficiency
+
+| LeetCode Progress | Key Metrics |
 | :--- | :--- |
-| ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=meher_suneel&theme=dark) | Java, Spring Boot, Microservices |
+| <img src="https://leetcode-stats-six.vercel.app/?username=meher_suneel&theme=dark" width="400" /> | **Top Skills:** Java, Spring Boot, Microservices <br> **Focus:** Algorithms & System Design <br> **Status:** Active Problem Solver |
+
+> [!TIP]
+> Check out my [LeetCode Profile](https://leetcode.com/u/meher_suneel/) for detailed solutions.
 
 > **Note:** I focus on Medium/Hard problems involving distributed systems and high-performance algorithms.
