@@ -35,7 +35,7 @@
 ## 💻 Technical Proficiency
 
 | LeetCode Progress | Key Metrics |
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=meher_suneel&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/meher_suneel?theme=dark)
 
 > [!TIP]
 > Check out my [LeetCode Profile](https://leetcode.com/u/meher_suneel/) for detailed solutions.
