@@ -35,8 +35,7 @@
 ## 💻 Technical Proficiency
 
 | LeetCode Progress | Key Metrics |
-| :--- | :--- |
-| <img src="https://leetcode-stats-six.vercel.app/?username=meher_suneel&theme=dark" width="400" /> | **Top Skills:** Java, Spring Boot, Microservices <br> **Focus:** Algorithms & System Design <br> **Status:** Active Problem Solver |
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=meher_suneel&theme=dark)
 
 > [!TIP]
 > Check out my [LeetCode Profile](https://leetcode.com/u/meher_suneel/) for detailed solutions.
