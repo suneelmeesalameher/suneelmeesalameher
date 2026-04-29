@@ -30,4 +30,10 @@
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
+## 🛠️ Technical Growth
 
+| LeetCode Stats | Top Skills |
+| :--- | :--- |
+| ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=meher_suneel&theme=dark) | Java, Spring Boot, Microservices |
+
+> **Note:** I focus on Medium/Hard problems involving distributed systems and high-performance algorithms.
