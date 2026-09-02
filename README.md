@@ -14,7 +14,6 @@
 
 ### 📫 Let's Connect
 - msuneel2812@gmail.com
-- 🌐 [Portfolio](https://suneelmeesalameher.github.io/meher_suneel/) 
 
 ---
 
