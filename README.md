@@ -31,16 +31,11 @@
 
 
 
-## 💻 Technical Proficiency
-
-| LeetCode Stats | Professional Toolkit |
-| :--- | :--- |
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/meher_suneel?theme=dark)](https://leetcode.com/u/meher_suneel/) | **Languages:** Java, Python, SQL <br> **Cloud:** AWS, Serverless, Microservices <br> **Focus:** High-Performance Systems |
-
 ---
 
 ### 🚀 Problem Solving Journey
 > I focus on solving Medium and Hard problems that involve complex data structures and distributed system design.
+
 
 * 📈 **Continuous Growth:** Active on LeetCode for algorithm mastery.
 * 🛠️ **System Design:** Applying patterns like Event-Driven Architecture and Sharding.
