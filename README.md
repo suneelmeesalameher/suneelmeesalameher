@@ -13,7 +13,8 @@
 ---
 
 ### 📫 Let's Connect
-- mmeesala@gmu.edu  
+- msuneel2812@gmail.com
+- 🌐 [Portfolio](https://suneelmeesalameher.github.io/meher_suneel/) 
 
 ---
 
