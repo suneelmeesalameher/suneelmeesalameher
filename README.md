@@ -30,12 +30,3 @@
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
-
----
-
-### 🚀 Problem Solving Journey
-> I focus on solving Medium and Hard problems that involve complex data structures and distributed system design.
-
-
-* 📈 **Continuous Growth:** Active on LeetCode for algorithm mastery.
-* 🛠️ **System Design:** Applying patterns like Event-Driven Architecture and Sharding.
